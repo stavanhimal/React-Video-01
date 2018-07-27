@@ -5,7 +5,7 @@ const IndexPage = () => (
   <div>
     <h1>Learn to Code in React</h1>
     <p>The course from Design+Code</p>
-    <Link to="/page-2/">Watch the video</Link>
+    <Link to="/page-2/">Watch the video Again</Link>
   </div>
 )
 
